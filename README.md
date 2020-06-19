@@ -1,2 +1,4 @@
 # snowflake
-Random snowfall.
+Random snowfall generator animation.
+
+Snowflake icon by Freepik at flaticon.com.
